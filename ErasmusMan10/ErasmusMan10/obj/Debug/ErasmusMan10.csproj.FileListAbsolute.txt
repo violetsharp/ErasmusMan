@@ -1,0 +1,11 @@
+C:\Users\Aluno\Documents\2TGEI\ERASMUSMANAGER .NET 10\ErasmusMan10\ErasmusMan10\bin\Debug\ErasmusMan10.exe.config
+C:\Users\Aluno\Documents\2TGEI\ERASMUSMANAGER .NET 10\ErasmusMan10\ErasmusMan10\bin\Debug\ErasmusMan10.exe
+C:\Users\Aluno\Documents\2TGEI\ERASMUSMANAGER .NET 10\ErasmusMan10\ErasmusMan10\bin\Debug\ErasmusMan10.pdb
+C:\Users\Aluno\Documents\2TGEI\ERASMUSMANAGER .NET 10\ErasmusMan10\ErasmusMan10\obj\Debug\ErasmusMan10.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\2TGEI\ERASMUSMANAGER .NET 10\ErasmusMan10\ErasmusMan10\obj\Debug\ErasmusMan10.Properties.Resources.resources
+C:\Users\Aluno\Documents\2TGEI\ERASMUSMANAGER .NET 10\ErasmusMan10\ErasmusMan10\obj\Debug\ErasmusMan10.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\2TGEI\ERASMUSMANAGER .NET 10\ErasmusMan10\ErasmusMan10\obj\Debug\ErasmusMan10.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\2TGEI\ERASMUSMANAGER .NET 10\ErasmusMan10\ErasmusMan10\obj\Debug\ErasmusMan10.exe
+C:\Users\Aluno\Documents\2TGEI\ERASMUSMANAGER .NET 10\ErasmusMan10\ErasmusMan10\obj\Debug\ErasmusMan10.pdb
+C:\Users\Aluno\Documents\2TGEI\ERASMUSMANAGER .NET 10\ErasmusMan10\ErasmusMan10\obj\Debug\ErasmusMan10.Form1.resources
+C:\Users\Aluno\Documents\2TGEI\ERASMUSMANAGER .NET 10\ErasmusMan10\ErasmusMan10\obj\Debug\ErasmusMan10.Form2.resources
